@@ -7,7 +7,7 @@ entries:
           description: "Upgraded internal dependencies."
         - kind: security
           description: "Upgraded kube-rbac-proxy from v0.15.0 to v0.16.0."
-        - king: added
+        - kind: added
           description: "test release for security analysis"
       artifacthub.io/containsSecurityUpdates: "true"
       artifacthub.io/license: Apache-2.0
